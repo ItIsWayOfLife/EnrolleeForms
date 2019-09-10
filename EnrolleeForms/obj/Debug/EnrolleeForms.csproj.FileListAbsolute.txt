@@ -1,0 +1,83 @@
+C:\Users\Anton\source\repos\EnrolleeForms\EnrolleeForms\bin\Debug\EnrolleeForms.exe.config
+C:\Users\Anton\source\repos\EnrolleeForms\EnrolleeForms\bin\Debug\EnrolleeForms.exe
+C:\Users\Anton\source\repos\EnrolleeForms\EnrolleeForms\bin\Debug\EnrolleeForms.pdb
+C:\Users\Anton\source\repos\EnrolleeForms\EnrolleeForms\obj\Debug\EnrolleeForms.csprojAssemblyReference.cache
+C:\Users\Anton\source\repos\EnrolleeForms\EnrolleeForms\obj\Debug\EnrolleeForms.MainForm.resources
+C:\Users\Anton\source\repos\EnrolleeForms\EnrolleeForms\obj\Debug\EnrolleeForms.Properties.Resources.resources
+C:\Users\Anton\source\repos\EnrolleeForms\EnrolleeForms\obj\Debug\EnrolleeForms.csproj.GenerateResource.cache
+C:\Users\Anton\source\repos\EnrolleeForms\EnrolleeForms\obj\Debug\EnrolleeForms.csproj.CoreCompileInputs.cache
+C:\Users\Anton\source\repos\EnrolleeForms\EnrolleeForms\obj\Debug\EnrolleeForms.exe
+C:\Users\Anton\source\repos\EnrolleeForms\EnrolleeForms\obj\Debug\EnrolleeForms.pdb
+C:\Users\Anton\source\repos\EnrolleeForms\EnrolleeForms\obj\Debug\EnrolleeForms.MinutelyTrainingDirection.resources
+C:\Users\Anton\source\repos\EnrolleeForms\EnrolleeForms\obj\Debug\EnrolleeForms.AddEnrollee_.resources
+C:\Users\Anton\source\repos\EnrolleeForms\EnrolleeForms\obj\Debug\EnrolleeForms.ViewEnrollee.resources
+C:\Users\Anton\source\repos\EnrolleeForms\EnrolleeForms\obj\Debug\EnrolleeForms.UpdateEnrollee.resources
+C:\Users\Anton\source\repos\EnrolleeForms\EnrolleeForms\obj\Debug\EnrolleeForms.DocForm.resources
+C:\Users\Anton\source\repos\EnrolleeForms\EnrolleeForms\obj\Debug\EnrolleeForms.AddDoc.resources
+C:\Users\Anton\source\repos\EnrolleeForms\EnrolleeForms\obj\Debug\EnrolleeForms.UpdateDoc.resources
+C:\Users\Anton\source\repos\EnrolleeForms\EnrolleeForms\obj\Debug\EnrolleeForms.ContractForm.resources
+C:\Users\Anton\source\repos\EnrolleeForms\EnrolleeForms\obj\Debug\EnrolleeForms.AddContract.resources
+C:\Users\Anton\source\repos\EnrolleeForms\EnrolleeForms\obj\Debug\EnrolleeForms.UpdateContract.resources
+C:\Users\Anton\source\repos\EnrolleeForms\EnrolleeForms\obj\Debug\EnrolleeForms.RelativeForm.resources
+C:\Users\Anton\source\repos\EnrolleeForms\EnrolleeForms\obj\Debug\EnrolleeForms.AddRelativ.resources
+C:\Users\Anton\source\repos\EnrolleeForms\EnrolleeForms\obj\Debug\EnrolleeForms.UptateRelativ.resources
+D:\Программирование\EnrolleeForms\EnrolleeForms\obj\Debug\EnrolleeForms.csprojAssemblyReference.cache
+D:\Программирование\EnrolleeForms\EnrolleeForms\obj\Debug\EnrolleeForms.AddContract.resources
+D:\Программирование\EnrolleeForms\EnrolleeForms\obj\Debug\EnrolleeForms.AddRelativ.resources
+D:\Программирование\EnrolleeForms\EnrolleeForms\obj\Debug\EnrolleeForms.ContractForm.resources
+D:\Программирование\EnrolleeForms\EnrolleeForms\obj\Debug\EnrolleeForms.AddDoc.resources
+D:\Программирование\EnrolleeForms\EnrolleeForms\obj\Debug\EnrolleeForms.DocForm.resources
+D:\Программирование\EnrolleeForms\EnrolleeForms\obj\Debug\EnrolleeForms.AddEnrollee_.resources
+D:\Программирование\EnrolleeForms\EnrolleeForms\obj\Debug\EnrolleeForms.MinutelyTrainingDirection.resources
+D:\Программирование\EnrolleeForms\EnrolleeForms\obj\Debug\EnrolleeForms.MainForm.resources
+D:\Программирование\EnrolleeForms\EnrolleeForms\obj\Debug\EnrolleeForms.Properties.Resources.resources
+D:\Программирование\EnrolleeForms\EnrolleeForms\obj\Debug\EnrolleeForms.UpdateEnrollee.resources
+D:\Программирование\EnrolleeForms\EnrolleeForms\obj\Debug\EnrolleeForms.ViewEnrollee.resources
+D:\Программирование\EnrolleeForms\EnrolleeForms\obj\Debug\EnrolleeForms.UpdateDoc.resources
+D:\Программирование\EnrolleeForms\EnrolleeForms\obj\Debug\EnrolleeForms.RelativeForm.resources
+D:\Программирование\EnrolleeForms\EnrolleeForms\obj\Debug\EnrolleeForms.UpdateContract.resources
+D:\Программирование\EnrolleeForms\EnrolleeForms\obj\Debug\EnrolleeForms.UptateRelativ.resources
+D:\Программирование\EnrolleeForms\EnrolleeForms\obj\Debug\EnrolleeForms.csproj.GenerateResource.cache
+D:\Программирование\EnrolleeForms\EnrolleeForms\obj\Debug\EnrolleeForms.csproj.CoreCompileInputs.cache
+D:\Программирование\EnrolleeForms\EnrolleeForms\obj\Debug\EnrolleeForms.exe
+D:\Программирование\EnrolleeForms\EnrolleeForms\obj\Debug\EnrolleeForms.pdb
+D:\Программирование\EnrolleeForms\EnrolleeForms\bin\Debug\EnrolleeForms.exe.config
+D:\Программирование\EnrolleeForms\EnrolleeForms\bin\Debug\EnrolleeForms.exe
+D:\Программирование\EnrolleeForms\EnrolleeForms\bin\Debug\EnrolleeForms.pdb
+D:\Программирование\EnrolleeForms\EnrolleeForms\obj\Debug\EnrolleeForms.HistoryForm.resources
+D:\Программирование\EnrolleeForms\EnrolleeForms\obj\Debug\EnrolleeForms.SelectHistory.resources
+D:\Программирование\EnrolleeForms\EnrolleeForms\obj\Debug\EnrolleeForms.LoginForm.resources
+D:\Программирование\EnrolleeForms\EnrolleeForms\obj\Debug\EnrolleeForms.HistoryUserForm.resources
+D:\Программирование\EnrolleeForms\EnrolleeForms\obj\Debug\EnrolleeForms.csproj.ResolveComReference.cache
+D:\Программирование\EnrolleeForms\EnrolleeForms\bin\Debug\Info\MainFormInfo.txt
+D:\Программирование\EnrolleeForms\EnrolleeForms\bin\Debug\Info\ContractFormInfo.txt
+D:\Программирование\EnrolleeForms\EnrolleeForms\bin\Debug\Info\DocFormInfo.txt
+D:\Программирование\EnrolleeForms\EnrolleeForms\bin\Debug\Info\EnrolleeFormInfo.txt
+D:\Программирование\EnrolleeForms\EnrolleeForms\bin\Debug\Info\RelativeFormInfo.txt
+D:\Программирование\EnrolleeForms\EnrolleeForms\bin\Debug\Info\AboutTheDeveloperInfo.txt
+D:\Программирование\EnrolleeForms\EnrolleeForms\bin\Debug\Info\ProgramInfo.txt
+D:\Новая папка\EnrolleeForms\EnrolleeForms\obj\Debug\EnrolleeForms.csprojAssemblyReference.cache
+D:\Новая папка\EnrolleeForms\EnrolleeForms\obj\Debug\EnrolleeForms.csproj.ResolveComReference.cache
+D:\Новая папка\EnrolleeForms\EnrolleeForms\obj\Debug\EnrolleeForms.AddContract.resources
+D:\Новая папка\EnrolleeForms\EnrolleeForms\obj\Debug\EnrolleeForms.AddRelativ.resources
+D:\Новая папка\EnrolleeForms\EnrolleeForms\obj\Debug\EnrolleeForms.ContractForm.resources
+D:\Новая папка\EnrolleeForms\EnrolleeForms\obj\Debug\EnrolleeForms.AddDoc.resources
+D:\Новая папка\EnrolleeForms\EnrolleeForms\obj\Debug\EnrolleeForms.DocForm.resources
+D:\Новая папка\EnrolleeForms\EnrolleeForms\obj\Debug\EnrolleeForms.AddEnrollee_.resources
+D:\Новая папка\EnrolleeForms\EnrolleeForms\obj\Debug\EnrolleeForms.MinutelyTrainingDirection.resources
+D:\Новая папка\EnrolleeForms\EnrolleeForms\obj\Debug\EnrolleeForms.MainForm.resources
+D:\Новая папка\EnrolleeForms\EnrolleeForms\obj\Debug\EnrolleeForms.HistoryForm.resources
+D:\Новая папка\EnrolleeForms\EnrolleeForms\obj\Debug\EnrolleeForms.HistoryUserForm.resources
+D:\Новая папка\EnrolleeForms\EnrolleeForms\obj\Debug\EnrolleeForms.LoginForm.resources
+D:\Новая папка\EnrolleeForms\EnrolleeForms\obj\Debug\EnrolleeForms.Properties.Resources.resources
+D:\Новая папка\EnrolleeForms\EnrolleeForms\obj\Debug\EnrolleeForms.UpdateEnrollee.resources
+D:\Новая папка\EnrolleeForms\EnrolleeForms\obj\Debug\EnrolleeForms.ViewEnrollee.resources
+D:\Новая папка\EnrolleeForms\EnrolleeForms\obj\Debug\EnrolleeForms.UpdateDoc.resources
+D:\Новая папка\EnrolleeForms\EnrolleeForms\obj\Debug\EnrolleeForms.RelativeForm.resources
+D:\Новая папка\EnrolleeForms\EnrolleeForms\obj\Debug\EnrolleeForms.UpdateContract.resources
+D:\Новая папка\EnrolleeForms\EnrolleeForms\obj\Debug\EnrolleeForms.UptateRelativ.resources
+D:\Новая папка\EnrolleeForms\EnrolleeForms\obj\Debug\EnrolleeForms.SelectHistory.resources
+D:\Новая папка\EnrolleeForms\EnrolleeForms\obj\Debug\EnrolleeForms.csproj.GenerateResource.cache
+D:\Новая папка\EnrolleeForms\EnrolleeForms\obj\Debug\EnrolleeForms.csproj.CoreCompileInputs.cache
+D:\Новая папка\EnrolleeForms\EnrolleeForms\obj\Debug\EnrolleeForms.exe
+D:\Новая папка\EnrolleeForms\EnrolleeForms\obj\Debug\EnrolleeForms.pdb

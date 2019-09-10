@@ -1,0 +1,235 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="EnrolleeForms.BudgetOrCharge" Collapsed="true">
+    <Position X="6" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEACAAAAAAAAAAAAAAAAAAQAAAAEAAAAAAAAAAAAAgA=</HashCode>
+      <FileName>Objects\BudgetOrCharge.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EnrolleeForms.Concession" Collapsed="true">
+    <Position X="2.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEACAAAAAAAAAAAAAAAAAAQAAAAEAAAAAAAAAAAAAgA=</HashCode>
+      <FileName>Objects\Concession.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EnrolleeForms.Connection" Collapsed="true">
+    <Position X="9.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAACAgAAAAAAA=</HashCode>
+      <FileName>Objects\Connection.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EnrolleeForms.Contract" Collapsed="true">
+    <Position X="7.25" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AE4AgQCBABAAAGBAAAAAAAgAAAEAAAAAAAAgAAEAMAA=</HashCode>
+      <FileName>Objects\Contract.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EnrolleeForms.DataExport" Collapsed="true">
+    <Position X="11.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Objects\DataExport.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EnrolleeForms.Department" Collapsed="true">
+    <Position X="8.5" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAA=</HashCode>
+      <FileName>Objects\Department.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EnrolleeForms.Diploma" Collapsed="true">
+    <Position X="2.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAACAAAAAwAAAAEAAAAAAAAAAACAAAAAgAAAAAAA=</HashCode>
+      <FileName>Objects\Diploma.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EnrolleeForms.Document" Collapsed="true">
+    <Position X="7.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEYCAQCBABBgQAAAYEAAFAQAAAEEAAAAAAAAAAAAAgA=</HashCode>
+      <FileName>Objects\Document.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EnrolleeForms.Enrollee" Collapsed="true">
+    <Position X="0.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>Ag44ogQgIDACACQgCAQAkAgwAIGAEEACKgBMAKIQOIA=</HashCode>
+      <FileName>Objects\Enrollee.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="trainingDirection" />
+      <Field Name="levelEducation" />
+      <Field Name="concession" />
+      <Field Name="placeOfStudy" />
+      <Field Name="diploma" />
+    </ShowAsAssociation>
+    <ShowAsCollectionAssociation>
+      <Property Name="Contracts" />
+      <Property Name="Documents" />
+      <Property Name="Relatives" />
+    </ShowAsCollectionAssociation>
+  </Class>
+  <Class Name="EnrolleeForms.EntranceTest" Collapsed="true">
+    <Position X="6" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEACAAAAAAAAAAAAAAAAAAQAAAAEAAAAAAAAAAAAAgA=</HashCode>
+      <FileName>Objects\EntranceTest.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EnrolleeForms.Faculty" Collapsed="true">
+    <Position X="10.75" Y="8" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAA=</HashCode>
+      <FileName>Objects\Faculty.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EnrolleeForms.FormStudy" Collapsed="true">
+    <Position X="6" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEACAAAAAAAAAAAAAAAAAAQAAAAEAAAAAAAAAAAAAgA=</HashCode>
+      <FileName>Objects\FormStudy.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EnrolleeForms.History" Collapsed="true">
+    <Position X="9.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEACAACAABJAgAAAQABAAAAAAAAAAAAAAAUAAgABAgg=</HashCode>
+      <FileName>Objects\History.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EnrolleeForms.HistoryUser" Collapsed="true">
+    <Position X="7.25" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEYCAQIACBMIgEgACQBAAAIAAACAAIAgAAQAAhAAAgA=</HashCode>
+      <FileName>Objects\HistoryUser.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EnrolleeForms.Inquiry" Collapsed="true">
+    <Position X="9.5" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAAAAQAAAAAAAAAgAEAAAAgAAgABAAAAAAAAQAAAAA=</HashCode>
+      <FileName>Objects\Inquiry.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EnrolleeForms.LevelEducation" Collapsed="true">
+    <Position X="2.5" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEACAAAAAAAAAAAAAAAAAAQAAAAEAAAAAAAAAAAAAgA=</HashCode>
+      <FileName>Objects\LevelEducation.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EnrolleeForms.Passport" Collapsed="true">
+    <Position X="4.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAIQAAAAAAQAgAAECAAAAAAAAAAAAAAAAgAAAAKCE=</HashCode>
+      <FileName>Objects\Passport.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EnrolleeForms.Person" Collapsed="true">
+    <Position X="1.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>MgYCAGAAAAhABAAIABQAQAAQAEMQAAACAAAAAAAAAgA=</HashCode>
+      <FileName>Objects\Person.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="passport" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="EnrolleeForms.PlaceOfStudy" Collapsed="true">
+    <Position X="2.5" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAAAAAAAAAAAAAAAAAAAQAAAIEAAACAAAAAEAAAAA=</HashCode>
+      <FileName>Objects\PlaceOfStudy.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EnrolleeForms.Program" Collapsed="true">
+    <Position X="11.25" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Objects\Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EnrolleeForms.Relative" Collapsed="true">
+    <Position X="3" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QkYAQQAIABBAAAQAQAQAAEAQAAEAEAAAAAAEQAAQAAA=</HashCode>
+      <FileName>Objects\Relative.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="work" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="EnrolleeForms.Specialty" Collapsed="true">
+    <Position X="6" Y="8" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAgAAAEIAAABCAAAAQEAAAAIAAAACQAAAAAgQ=</HashCode>
+      <FileName>Objects\Specialty.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="faculty" />
+      <Field Name="department" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="EnrolleeForms.StructuralUnit" Collapsed="true">
+    <Position X="9.5" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAIAAAACAAAAAAAAAAIAAAACAAEAAAgA=</HashCode>
+      <FileName>Objects\StructuralUnit.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EnrolleeForms.TrainingDirection" Collapsed="true">
+    <Position X="2.5" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAB+AIAgABAAgAQCAAIACZIACBKAAAIQACAACECADgQ=</HashCode>
+      <FileName>Objects\TrainingDirection.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="specialty" />
+      <Field Name="formStudy" />
+      <Field Name="trainingPeriod" />
+      <Field Name="budgetOrCharge" />
+      <Field Name="firstEntranceTest" />
+      <Field Name="secondEntranceTest" />
+      <Field Name="thirdEntranceTest" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="EnrolleeForms.TrainingPeriod" Collapsed="true">
+    <Position X="6" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEACAAAAAAAAAAAAAAAAAAQAAAAEAAAAAAAAAAAAAgA=</HashCode>
+      <FileName>Objects\TrainingPeriod.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EnrolleeForms.User" Collapsed="true">
+    <Position X="4.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IkACAmACAAhAAgAIAAAAAAAAAAAAAAAAAIAQAgAAEgI=</HashCode>
+      <FileName>Objects\User.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="adminRights" />
+      <Field Name="historyUser" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="EnrolleeForms.Work" Collapsed="true">
+    <Position X="5.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAABAAAAAQAAAAAAAAAAACAAAAAgAAAAAAAAAAAA=</HashCode>
+      <FileName>Objects\Work.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="EnrolleeForms.AdminRights" Collapsed="true">
+    <Position X="7.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAA=</HashCode>
+      <FileName>Objects\AdminRights.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
